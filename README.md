@@ -1,4 +1,4 @@
-<img width="1919" height="1006" alt="Screenshot 2025-09-19 185659" src="https://github.com/user-attachments/assets/4471f0c4-7614-4d1e-ac21-0182165b6dc0" /># 🏥 Tkinter Medical Management System
+# 🏥 Tkinter Medical Management System
 
 A Medical Management System built with Python (Tkinter GUI) that simplifies hospital and pharmacy operations by integrating drug inventory, sales, stock management, and patient data into one desktop application.
 
